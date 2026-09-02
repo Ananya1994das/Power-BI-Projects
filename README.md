@@ -5,7 +5,7 @@ This repository contains a collection of interactive Power BI projects focused o
 
 # Projects-
 
-**📊HR Analytics Dashboard **
+# 📊 **HR Analytics Dashboard**
 📌 Overview
 
 This project presents an interactive HR Analytics Dashboard built using Power BI to analyze employee attrition and identify key workforce trends. The dashboard provides a detailed view of attrition across age, education, salary, job satisfaction, job roles, years at the company, and departments.
