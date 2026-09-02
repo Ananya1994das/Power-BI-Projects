@@ -5,33 +5,21 @@ This repository contains a collection of interactive Power BI projects focused o
 
 # Projects-
 
-# HR Analytics Dashboard
+📊 HR Analytics Dashboard | Power BI
+📌 Overview
 
-## Overview
+This project presents an interactive HR Analytics Dashboard built using Power BI to analyze employee attrition and identify key workforce trends. The dashboard provides a detailed view of attrition across age, education, salary, job satisfaction, job roles, years at the company, and departments.
 
-This project presents an interactive **HR Analytics Dashboard built in Power BI** to analyze employee attrition and identify key workforce trends across different employee and job-related factors.
+The analysis covers three major departments: Human Resources (HR), Research & Development (R&D), and Sales, helping identify employee segments and factors associated with higher attrition.
 
-## Key Analysis
-
-The dashboard provides insights into attrition based on:
-
-* **Age Groups**
-* **Education**
-* **Salary Slabs**
-* **Job Satisfaction**
-* **Job Roles**
-* **Years at Company**
-* **Department**
-
-The analysis focuses on the three major departments: **Human Resources (HR), Research & Development (R&D), and Sales**.
-
-## Key Objectives
-
-* Identify the employee segments with the highest attrition.
-* Analyze how salary, age, education, and job satisfaction influence attrition.
-* Compare attrition patterns across different departments and job roles.
-* Understand the relationship between employee tenure and attrition.
-* Provide actionable insights to support employee retention and HR decision-making.
+🎯 Objectives
+Analyze overall employee attrition and workforce trends.
+Identify attrition patterns across different age groups and education levels.
+Understand the relationship between salary slabs and employee attrition.
+Analyze attrition based on job satisfaction and job roles.
+Compare attrition across HR, R&D, and Sales departments.
+Examine the impact of employee tenure/years at company on attrition.
+Provide data-driven insights that can support employee retention and HR decision-making.
 
 ## Tools & Skills
 
