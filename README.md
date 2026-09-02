@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a collection of interactive Power BI projects focused on transforming raw data into actionable business insights through data cleaning, data modeling, DAX, KPI analysis, and dynamic dashboard visualizations.
 
-# Projects-
+# Project-1-
 
 # 📊 **HR Analytics Dashboard**
 📌 Overview
